@@ -1,10 +1,15 @@
 'use strict'
 
 import React from 'react'
+import Title from './title'
 
 const App = React.createClass({
   render: function () {
-    return <h1>Aplicação com Module Hot Loader</h1>
+    return (
+      <div className='container'>
+        <Title name='Adams' />
+      </div>
+    )
   }
 })
 
