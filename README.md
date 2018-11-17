@@ -2,6 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
+## GetDefaultProps
+Como passar propriedades para os componentes React e definir as *default props* 
+
 ## Instalação
 
  1. Clone o repositório
