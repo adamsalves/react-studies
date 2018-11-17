@@ -2,6 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
+## Pure Functions
+Como aplicar o conceito de *funções puras* aos componentes React
+
 ## Instalação
 
  1. Clone o repositório
