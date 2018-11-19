@@ -6,6 +6,18 @@ Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *
 
 Como utilisar classes para criar os componentes React 
 
+```js
+class App extends Component {
+  render () {
+   return (
+     <div className='container'>
+       <Title name='app'/>
+     </div>
+   )
+  }
+}
+```
+
 ## Instalação
 
  1. Clone o repositório
