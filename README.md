@@ -2,6 +2,10 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
+## Prop Key
+
+Usando a *prop Key* em arrays no React
+
 ## Instalação
 
  1. Clone o repositório
