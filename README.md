@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Prop Key
+## Children
 
-Usando a *prop Key* em arrays no React
+Usando *children* nos componentes: passar informações dentro de componentes
 
 ## Instalação
 
