@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Prop Key
+## Eventos no React
 
-Usando a *prop Key* em arrays no React
+Usando eventos no React. São passados in-line, porém o react retira o evento do elemento(tag html) no DOM, o separa e atrela via javascript
 
 ## Instalação
 
