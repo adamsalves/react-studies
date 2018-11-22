@@ -2,9 +2,10 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Estados em componentes React 
+## Stateful vs Stateless
 
-*this.state* Estado da aplicação, tudo que é dinâmico na aplicação! O estado da aplicação só pode ser mudado através do *this.setState*
+Componentes *Stateful* são os que manipulam estados e
+*Stateless* são os que apenas recebem dados para serem renderizados, não manipulam informação ou alteram o estado da aplicação
 
 ## Instalação
 
