@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Composição de componentes React
+## Estados em componentes React 
 
-Usando composição para criar outros componentes a partir do componente genérico 
+*this.state* Estado da aplicação, tudo que é dinâmico na aplicação! O estado da aplicação só pode ser mudado através do *this.setState*
 
 ## Instalação
 
