@@ -2,10 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Stateful vs Stateless
+## Lifecycle dos componentes React
 
-Componentes *Stateful* são os que manipulam estados e
-*Stateless* são os que apenas recebem dados para serem renderizados, não manipulam informação ou alteram o estado da aplicação
+Montagem e desmontagem dos componentes React. Funções *componentWillMount*, *componentDidMount*, *componentWillUnmount*
 
 ## Instalação
 
