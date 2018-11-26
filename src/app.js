@@ -5,30 +5,30 @@ import Timer from './timer'
 
 class App extends Component {
   constructor () {
-    console.log('contructor')
+    console.log('contructor app')
     super()
     this.state = {
-      showTimer: true
+      showTimer: true,
+      time: 0
     }
   }
 
   componentWillMount () {
-    console.log('componentWillMount')
+    console.log('componentWillMount app')
   }
 
   componentDidMount () {
-    console.log('componentDidMount')
+    console.log('componentDidMount app')
   }
 
   render () {
-    console.log('render')
+    console.log('render app')
     return (
       <div>
-        { this.state.showTimer && <Timer />}
-
+        <Timer time={this.state.time} />
         <button onClick={() => {
-          this.setState({ showTimer: !this.state.showTimer })
-        }}>Show/hide timer</button>
+          this.setState({ time: this.state.time + 10 })
+        }}>Change props</button>
       </div>
     )
   }

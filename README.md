@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Lifecycle dos componentes React
+## Lifecycle dos componentes React: *Update*
 
-Montagem e desmontagem dos componentes React. Funções *componentWillMount*, *componentDidMount*, *componentWillUnmount*
+Update de componentes React. Funções *componentWillReceiveProps*, *componentWillUpdate*, *componentDidUpdate*
 
 ## Instalação
 
