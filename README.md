@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## Lifecycle dos componentes React: *Update*
+## PropTypes do React
 
-Update de componentes React. Funções *componentWillReceiveProps*, *componentWillUpdate*, *componentDidUpdate*
+Faz uma validação do que está sendo passado para os componentes
 
 ## Instalação
 
