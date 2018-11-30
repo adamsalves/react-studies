@@ -2,9 +2,9 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## PropTypes do React
+## Trabalhando com formulários no React
 
-Faz uma validação do que está sendo passado para os componentes
+*Controlled e uncontrolled components*, checkbox e radio, select e option, textarea e eventos para forms(onChange, onInput e onSubmit)
 
 ## Instalação
 
