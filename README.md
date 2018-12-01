@@ -2,11 +2,8 @@
 
 Aqui nesse repositório irão ficar meus estudos sobre **React**, divididos em *branchs* sobre o assunto estudado.
 
-## setState 
-
-*setState* é assíncrono, deve-se usar uma função de callback para atualizar o estado caso precise pegar a mudança no momento de sua atualização
-
-*Controlled e uncontrolled components*, checkbox e radio, select e option, textarea e eventos para forms(onChange, onInput e onSubmit)
+## Github App
+Usando React para fazer um App para consumir a api do Github
 
 ## Instalação
 
