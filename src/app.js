@@ -59,10 +59,12 @@ class App extends Component {
 
   render () {
     return <AppContent
-      userinfo={this.state.userinfo}
-      repos={this.state.repos}
-      starred={this.state.starred}
-      isFetching={this.state.isFetching}
+      // userinfo={this.state.userinfo}
+      // repos={this.state.repos}
+      // starred={this.state.starred}
+      // isFetching={this.state.isFetching}
+      // spread operator aqui faz a função das propriedades: user info, repos, starred, isFetching
+      {...this.state}
       handleSearch={this.handleSearch}
       getRepos={this.getRepos('repos')}
       getStarred={this.getRepos('starred')}
